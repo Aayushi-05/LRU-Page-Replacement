@@ -43,6 +43,7 @@ set of pages in memory.
      b) Replace the found page with current page.
      c) Increment page faults.
      d) Update index of current page.
+
 2. Return page faults.       
 **Example :**
 Sample String : 0 4 1 4 2 4 3 4 2 4 0 4
