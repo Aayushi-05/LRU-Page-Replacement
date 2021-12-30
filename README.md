@@ -48,6 +48,9 @@ set of pages in memory.
 **Example :**
 Sample String : 0 4 1 4 2 4 3 4 2 4 0 4
 
-![image](https://user-images.githubusercontent.com/66406542/147122439-e490b232-76d8-4dc7-91af-df0fe3278c80.png)
+![image](https://user-images.githubusercontent.com/66406542/147774173-ed6b53ad-2e3e-4d42-9c3c-cfcdf8d51497.png)
+
 **Code Execution Output**
-![Screenshot (482)](https://user-images.githubusercontent.com/66406542/147123198-29b5fa37-b1d9-4bde-bd9b-815a20de987f.png)
+
+![image](https://user-images.githubusercontent.com/66406542/147774205-7dc66c36-573a-4f49-82b8-b00d82b6af46.png)
+
